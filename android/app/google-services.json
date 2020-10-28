@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930061023426",
+    "firebase_url": "https://khappa-a8424.firebaseio.com",
+    "project_id": "khappa-a8424",
+    "storage_bucket": "khappa-a8424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930061023426:android:c6c730ec9f8a1abcf8235b",
+        "android_client_info": {
+          "package_name": "com.khappa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930061023426-puhuavmdfqbdtv5utg7gkbqlhlean5dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Z6ob8PqJWWdMzDJZONbBSd_apfESy5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930061023426-puhuavmdfqbdtv5utg7gkbqlhlean5dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
